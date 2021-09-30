@@ -1,3 +1,8 @@
 {
-  "item.test_fabric.premier_item": "Mon premier item avec Fabric"
+  "itemGroup.test_fabric.groupe_pour_mes_items": "Un groupe pour mes items",
+
+  "item.test_fabric.premier_item": "Mon premier item avec Fabric",
+  "item.test_fabric.un_item_avec_class_custom": "Un item avec class custom",
+
+  "block.test_fabric.un_premier_bloc": "Un premier bloc"
 }
