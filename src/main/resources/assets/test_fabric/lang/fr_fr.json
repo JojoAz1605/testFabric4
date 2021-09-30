@@ -4,5 +4,6 @@
   "item.test_fabric.premier_item": "Mon premier item avec Fabric",
   "item.test_fabric.un_item_avec_class_custom": "Un item avec class custom",
 
-  "block.test_fabric.un_premier_bloc": "Un premier bloc"
+  "block.test_fabric.un_premier_bloc": "Un premier bloc",
+  "block.test_fabric.un_bloc_qui_a_la_classe": "Un bloc qui a la classe"
 }
