@@ -4,14 +4,12 @@ import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.sound.SoundCategory;
-import net.minecraft.sound.SoundEvents;
-import net.minecraft.text.LiteralText;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
 import net.minecraft.util.hit.BlockHitResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
-import net.test_fabric.Mod;
+import net.test_fabric.soundEvents.SoundEventInit;
 
 public class ASuivre extends Block {
     public ASuivre(Settings settings) {
@@ -24,7 +22,7 @@ public class ASuivre extends Block {
             world.playSound(
                     null,
                     blockPos,
-                    Mod.TO_BE_CONTINUED_SOUND_EVENT,
+                    SoundEventInit.TO_BE_CONTINUED_SOUND_EVENT,
                     SoundCategory.BLOCKS,
                     1f,
                     1f

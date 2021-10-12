@@ -1,7 +1,7 @@
 package net.test_fabric.mixin;
 
-import net.test_fabric.Mod;
 import net.minecraft.client.gui.screen.TitleScreen;
+import net.test_fabric.Mod;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
