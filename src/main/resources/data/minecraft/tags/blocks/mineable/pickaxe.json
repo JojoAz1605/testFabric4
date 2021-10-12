@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "test_fabric:un_premier_bloc",
-    "test_fabric:un_bloc_qui_a_la_classe"
+    "test_fabric:un_bloc_qui_a_la_classe",
+    "test_fabric:a_suivre"
   ]
 }
